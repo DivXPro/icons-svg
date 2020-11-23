@@ -102,7 +102,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -121,7 +120,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -140,7 +138,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -159,7 +156,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -178,7 +174,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -197,7 +192,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -216,7 +210,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -235,7 +228,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -254,7 +246,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -273,7 +264,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -292,7 +282,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -311,7 +300,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -330,7 +318,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -349,7 +336,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -368,7 +354,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -387,7 +372,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -406,7 +390,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
@@ -425,7 +408,6 @@ export default series(
       extraNodeTransformFactories: [
         assignAttrsAtTag('svg', { focusable: 'false' }),
         adjustViewBox,
-        setDefaultColorAtPathTag('#333')
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
